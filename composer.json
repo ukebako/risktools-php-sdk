@@ -1,4 +1,17 @@
 {
+    "name": "ukebako/risktools-php-sdk",
+    "description": "A PHP-SDK for Risktools API",
+    "keywords": ["credit risk", "credit score"],
+    "type": "package",
+    "license": "MIT",
+    "authors": [{
+        "name": "Denis Zik",
+        "email": "ukebako@gmail.com"
+    }],
+
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+
     "autoload": {
         "psr-4": {
             "Risktools\\": "src/"
