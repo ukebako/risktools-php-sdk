@@ -1,0 +1,5 @@
+/client.php
+config.php
+.DS_Store
+composer.phar
+/vendor
