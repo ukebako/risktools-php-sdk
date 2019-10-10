@@ -1,4 +1,4 @@
-<?php namespace Risktools;
+<?php namespace RiskTools;
 
 /**
  * Client exception for errors like connection exception etc...

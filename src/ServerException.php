@@ -1,4 +1,4 @@
-<?php namespace Risktools;
+<?php namespace RiskTools;
 
 class ServerException extends \Exception
 {
