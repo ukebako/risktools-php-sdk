@@ -1,7 +1,7 @@
-<?php namespace Risktools;
+<?php namespace RiskTools;
 
 /**
- * Risktools API client
+ * RiskTools API client
  */
 class Client
 {
