@@ -14,7 +14,8 @@
 
     "autoload": {
         "psr-4": {
-            "RiskTools\\": "src/"
+            "RiskTools\\": "src/",
+            "Risktools\\": "v1_compart/"
         }
     }
 }
